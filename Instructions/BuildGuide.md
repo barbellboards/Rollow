@@ -39,7 +39,7 @@ There have been countless mistakes where people have accidentally solder compone
 
 If it makes life easier you can always put a piece of tape depicting what side your Rollows half reperensents.
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/3.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/3.jpg?raw=true)
 
 ### Step 2: Microcontrollers and OLED
 
@@ -52,7 +52,7 @@ The tape serves two purposes
 1. The tape helps to keep the sockets from moving when soldering them from the backside of the board.
 2. It also stops excess solder from bypassing the throughole on the microcontrollers and binding with the sockets.
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/5.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/5.jpg?raw=true)
 
 Flip the board around and start by soldering oposite ends of each sockets. Soldering the ends is a simple
 way to guarantee the sockets wont move.
@@ -68,7 +68,7 @@ When adding the pins it usually takes a little force to seed them properly the f
 
 **VIDEO 9**
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/10.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/10.jpg?raw=true)
 
 Next, you'll need to position the microcontroller on top of the pin. Make sure the microcontroller
 is correctl oriented. You can easily check by looking to see if the microcontrollers 
@@ -77,32 +77,32 @@ pinout names match those on the pcb.
 <sub>*Note: Don't forget to account for the space needed for a Lipo battery under the microcontroller
 if you're using a bluetooth setup and you desire the battery posistioned in this manner.*</sub>
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/11.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/11.jpg?raw=true)
 
 Continue with soldering the microcontrollers on the board.
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/12.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/12.jpg?raw=true)
 
 Finish by snipping off any excess of the the pins. 
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/13.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/13.jpg?raw=true)
 
 Remove the microcontroller and double check that all the solders look correct.
 You can also remove the tape at this step.
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/14.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/14.jpg?raw=true)
 
 With the microcontroller off you'll have acces to the OLED jumpers. 
 Make sure to bridge these jumpers so the OLED is proprely wired to the correct side of the board.  
 
 **VIDEO 15a**
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/15.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/15.jpg?raw=true)
 
 If you haven't already make sure to complete the soldering of the OLED sockets. 
 You can follow the steps above used for socketing the Microcontrollers.
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/16.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/16.jpg?raw=true)
 
 ### Step 3: Reset button, Power Switch, and TRRS
 
@@ -111,7 +111,7 @@ This will allow for an easier insttallation of the reset switch shown in the vid
 
 **VIDEO 17**
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/18.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/18.jpg?raw=true)
 
 With the reset button finished, the next component is the TRRS.
 Place the TRRS in the designated area marked on the board.
@@ -119,7 +119,7 @@ Then you'll need to flip the board over and solder the pins.
 
 **VIDEO 19**
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/20.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/20.jpg?raw=true)
 
 Lastly withe the board still flipped with it's bottom facing upward solder the power switch.
 Similar to the reset button it's easier to pre-solder one of the switches pads and place the 
@@ -137,18 +137,18 @@ Start by soldering one side of each pad.
 
 **VIDEO 24a**
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/24.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/24.jpg?raw=true)
 
 Holding one end of the diode using a pair of tweezers, slide the diode against the solder 
 while heating the solder with the iron. 
 
 **VIDEO xx**
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/26.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/26.jpg?raw=true)
 
 Finish up by soldering the other ends of the diodes to the board.
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/28.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/28.jpg?raw=true)
 
 ### Step 5: Switch sockets
 
@@ -158,7 +158,7 @@ Start by pre-soldering one side of the socket's pads.
 
 **VIDEO 29**
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/29a.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/29a.jpg?raw=true)
 
 Place the socket ontop of the with the squared off end facing downward
 <sub>*Note: Even though the pcb might show the rounded end facing downward it's best for the 
@@ -166,18 +166,18 @@ square end to face downward. If you already soldered it with the round end downw
 about it. There isn't going to be a huge difference in the end. Just makes putting the bottom plate
 on easier.*</sub>
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/30.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/30.jpg?raw=true)
 
 Holding one end of the socket with a pair of tweezers, place the soldering iron within the sockets 
 "solder valley" holding it untill the solder pases through the valley. 
 
 <sub>*Note: Be careful not to hold the soldering iron on the board for too long*</sub>
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/31.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/31.jpg?raw=true)
 
 Lastly, solder the other end of the sockets valley.
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/32.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/32.jpg?raw=true)
 
 ### Step 6: Encoders
 
@@ -190,7 +190,7 @@ fairly fragile and can snap off fairly easily.*</sub>
 Start by bending the farthest outside pin of the encoder just slightly. This step make 
 seading the encoder slightly easier.
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/22b.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/22b.jpg?raw=true)
 
 With the pin slightly bent you can sead the encoder into the board. Start by sliding the legs through the 
 cylindrical hole in the board. Once the feet are in far enough that they past the bottomm edge of the board 
@@ -200,14 +200,14 @@ Afterwards you can finish with soldering the pins and bridging the jumpers under
 
 **VIDEO 22**
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/22c.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/22c.jpg?raw=true)
 
 ### Step 7: SMD Plate Standoffs
 
 Start by pre-soldering the standoffs pads. Try to to evenly solder around the plate, 
 it doesn't have to be perfect. Becareful to not leave the iron on the pads for too long.
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/33.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/33.jpg?raw=true)
 
 With the pads pre-soldered place the standoff on top of the pads solder with the thinner end facing
 downwards.
@@ -220,7 +220,7 @@ from the center.
 
 **VIDEO 34**
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/34.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/34.jpg?raw=true)
 
 ### Step 8: Plate Stacking
 
@@ -230,7 +230,7 @@ The order of which the FR4 plates should go follows
 3) Gasket 
 4) Top Plate
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/new/buildguide/Instructions/Images/35.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/35.jpg?raw=true)
 
 When placing the PCB into the bottom plate it's going to be a tight fit. You'll more than likely have
 to give it a little force. Just becareful with the pcb. Also worth noting, sometimes the Standoffs can be 
