@@ -71,7 +71,10 @@ row of your keyboard isn't working.*</sub>
 With the sockets soldered you can begin adding pins to the sockets.
 When adding the pins it usually takes a little force to seat them properly the first time.
 
-**VIDEO 9**
+<!---Video 9-->
+https://user-images.githubusercontent.com/104576748/175922826-d35a4ee9-c350-4928-8001-ba0b7355e799.mp4
+
+[Video Link](https://youtu.be/1avikLniorU)
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/10.jpg?raw=true)
 
@@ -100,7 +103,10 @@ You can also remove the tape at this point.
 With the microcontroller off you'll have access to the OLED jumpers.
 Make sure to bridge these jumpers so the OLED is wired to the correct side of the board.
 
-**VIDEO 15a**
+<!---Video 15a-->
+https://user-images.githubusercontent.com/104576748/175925441-be7fb134-d95e-4764-baeb-1b012c1e5dbd.mp4
+
+[Video Link](https://youtu.be/XsF2idFTQ3s)
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/15.jpg?raw=true)
 
@@ -114,7 +120,11 @@ you can follow the steps above for socketing the microcontrollers.
 To begin with the reset button, the first thing you'll want to do is pre-solder the through holes.
 This will allow for an easier installation of the reset switch shown in the video below.
 
-**VIDEO 17**
+<!---Video 17-->
+
+https://user-images.githubusercontent.com/104576748/175926210-4ff062fe-000b-45e3-847f-a5232104fa0f.mp4
+
+[Video Link](https://youtu.be/hT-aMZvHc8E)
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/18.jpg?raw=true)
 
@@ -123,7 +133,10 @@ Place the TRRS jack in the designated area marked on the board.
 Then you'll need to flip the board over and solder the pins.
 Using some tape to hold the TRRS jack down can help keep it flush to the pcb.
 
-**VIDEO 19**
+<!---Video 19-->
+https://user-images.githubusercontent.com/104576748/175926894-2209974e-d4e8-4b16-89ff-e38e1ea2901b.mp4
+
+[Video Link](https://youtu.be/7d_xhCn4GK4)
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/20.jpg?raw=true)
 
@@ -131,7 +144,10 @@ Lastly with the board still flipped with it's bottom up, solder the power switch
 Similar to the reset button it's easier to pre-solder one of the switches pads and place the
 switch on top of it.
 
-**VIDEO 21**
+<!---Video 21-->
+https://user-images.githubusercontent.com/104576748/175927322-5cd1cffa-62c2-4f2e-af08-d5f64f3f1a00.mp4
+
+[Video Link](https://youtu.be/-FwDCMfAFm0)
 
 ### Step 4: Diodes
 
@@ -141,14 +157,21 @@ The diodes go where the LED lights would sit within the switches.
 
 Start by adding solder to one side of each pad.
 
-**VIDEO 24a**
+<!---Video 24a-->
+https://user-images.githubusercontent.com/104576748/175928332-bc3c9ff2-3cd8-4337-8c2c-73363c156f71.mp4
+
+[Video Link](https://youtu.be/z5ze24Iwil8)
+
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/24.jpg?raw=true)
 
 Holding one end of the diode using a pair of tweezers, slide the diode into the solder
 while heating the solder with the iron.
 
-**VIDEO xx**
+<!---Video 24b-->
+https://user-images.githubusercontent.com/104576748/175931329-fa7da6e3-7e88-4b27-a1cb-aeaa68791395.mp4
+
+[Video Link](https://youtu.be/Dayoz5wi4J0)
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/26.jpg?raw=true)
 
@@ -163,7 +186,10 @@ are placed on the bottom side of the pcb.
 
 Start by pre-soldering one side of each socket's pads.
 
-**VIDEO 29**
+<!---Video 29-->
+https://user-images.githubusercontent.com/104576748/175933036-b3dde7f3-a230-4c2d-8cc7-962487a8aaf5.mp4
+
+[Video Link ](https://youtu.be/a_M5lLFL-kc)
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/29a.jpg?raw=true)
 
@@ -206,7 +232,10 @@ or are flush, you can gently push the encoder toward you slotting it in place. T
 
 Afterwards, you can finish with soldering the pins and bridging the jumpers underneath
 
-**VIDEO 22**
+<!---Video 22-->
+https://user-images.githubusercontent.com/104576748/175933178-7931f157-08ca-4c1e-9226-a07fb1c0177f.mp4
+
+[Video Link](https://youtu.be/nH7LEHtE2h0)
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/22c.jpg?raw=true)
 
@@ -215,6 +244,12 @@ Afterwards, you can finish with soldering the pins and bridging the jumpers unde
 Start by pre-soldering the standoffs pads. Try to to evenly solder around the plate.
 It doesn't have to be perfect. Be careful to not leave the iron on the pads for too long.
 
+<!---Video 34a-->
+https://user-images.githubusercontent.com/104576748/175934636-4b9564c5-062e-49ee-9794-8faaa5304cf5.mp4
+
+
+[Video Link](https://youtu.be/s5dudOrlKBQ)
+
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/33.jpg?raw=true)
 
 With the pads pre-soldered, place the standoff on top of the solder pads with the thinner end facing
@@ -222,15 +257,19 @@ downwards.
 
 Place the tip of the iron inside the center of the standoff while gently applying a little force.
 After a few seconds you should feel the solder start to liquify and the standoff should move into place.
+**Make sure the tip of the iron is clean before placing it inside of the standoff!**
 
 Once it's liquified, place your tweezers on the standoff to keep it from moving and then pull the iron out
 from the center.
 
-**VIDEO 34**
+<!---Video 34b-->
+https://user-images.githubusercontent.com/104576748/175935125-5e02e5ea-6c0e-437c-9ab3-1f7589390f49.mp4
+
+[Video Link](https://youtu.be/l3BppBJmHJ4)
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/34.jpg?raw=true)
 
-### Step 8: Plate Stacking
+### Step 8: Board Assembly
 
 The order of which the FR4 plates should go follows
 1) Bottom Plate
@@ -244,12 +283,17 @@ When placing the PCB into the bottom plate, it's going to be a tight fit. You'll
 to give it a little force. Just be careful with the pcb. Also worth noting, sometimes the Standoffs can be
 slightly to one side. In this instance you can reheat the standoff and move it a little to try and center it.
 
-**VIDEO 36**
+<!---Video 36-->
+
+[Video Link](https://youtu.be/hGnZAwlStW8)
 
 Lastly add the non-slip pads to the bottom of the pcb sliding them through the designated holes in the bottom.
+
+<!---Video 37-->
+https://user-images.githubusercontent.com/104576748/175936818-68412787-36c4-42dd-ac92-8cc37cf451cd.mp4
 
 ### Step 9: OLED Covers
 
 Screw the OLED standoffs in their designated areas and screw the OLED covers on top.
 
-#CONGRATS YOU'VE COMPLETED ROLLOW!!!
+# CONGRATS YOU'VE COMPLETED ROLLOW!!!
