@@ -30,6 +30,11 @@ if so please contact Barry (EdgelessCorner#1430 or barbellboards@gmail.com)
 | SMD Diodes | 42(+2) | 36(+2) | 42(+2) | |
 | Rubber Pads | 14(+2) | 14(+2) | 0 | x |
 
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/1.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/2.jpg?raw=true)
+
+<sub>*Note: The SMDs in this guide are different from the ones in the Kit.*</sub>
+
 ## Building
 
 ### Step 1: Deciding on sides
@@ -166,7 +171,7 @@ square end to face downward. If you already soldered it with the round end downw
 about it. There isn't going to be a huge difference in the end. Just makes putting the bottom plate
 on easier.*</sub>
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/30.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/30a.jpg?raw=true)
 
 Holding one end of the socket with a pair of tweezers, place the soldering iron within the sockets 
 "solder valley" holding it untill the solder pases through the valley. 
