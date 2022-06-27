@@ -46,6 +46,8 @@ If it makes life easier you can always put a piece of tape depicting what side y
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/3.jpg?raw=true)
 
+---
+
 ### Step 2: Microcontrollers and OLED
 
 This example utilizes mill-max sockets to socket the microcontrollers and OLEDs.
@@ -115,6 +117,8 @@ you can follow the steps above for socketing the microcontrollers.
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/16.jpg?raw=true)
 
+---
+
 ### Step 3: Reset Button, Power Switch, and TRRS Jack
 
 To begin with the reset button, the first thing you'll want to do is pre-solder the through holes.
@@ -149,6 +153,8 @@ https://user-images.githubusercontent.com/104576748/175927322-5cd1cffa-62c2-4f2e
 
 [Video Link](https://youtu.be/-FwDCMfAFm0)
 
+---
+
 ### Step 4: Diodes
 
 Instead of soldering each individual diode at a time, it's easier to do them in a batch like process.
@@ -178,6 +184,8 @@ https://user-images.githubusercontent.com/104576748/175931329-fa7da6e3-7e88-4b27
 Finish up by soldering the other ends of the diodes to the board.
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/28.jpg?raw=true)
+
+---
 
 ### Step 5: Switch sockets
 
@@ -213,6 +221,8 @@ Lastly, solder the other end of the socket's valley.
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/32.jpg?raw=true)
 
+---
+
 ### Step 6: Encoders
 
 The encoders can be a little tricky to work with. There isn't a lot of room,
@@ -238,6 +248,8 @@ https://user-images.githubusercontent.com/104576748/175933178-7931f157-08ca-4c1e
 [Video Link](https://youtu.be/nH7LEHtE2h0)
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/22c.jpg?raw=true)
+
+---
 
 ### Step 7: SMD Plate Standoffs
 
@@ -269,6 +281,8 @@ https://user-images.githubusercontent.com/104576748/175935125-5e02e5ea-6c0e-437c
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/34.jpg?raw=true)
 
+---
+
 ### Step 8: Board Assembly
 
 The order of which the FR4 plates should go follows
@@ -291,6 +305,8 @@ Lastly add the non-slip pads to the bottom of the pcb sliding them through the d
 
 <!---Video 37-->
 https://user-images.githubusercontent.com/104576748/175936818-68412787-36c4-42dd-ac92-8cc37cf451cd.mp4
+
+---
 
 ### Step 9: OLED Covers
 
