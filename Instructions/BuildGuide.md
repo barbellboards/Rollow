@@ -173,6 +173,11 @@ https://user-images.githubusercontent.com/104576748/175928332-bc3c9ff2-3cd8-4337
 
 Holding one end of the diode using a pair of tweezers, slide the diode into the solder
 while heating the solder with the iron.
+**MAKE SURE THE LINE ON THE DIODE MATCHES THE LINE ON THE BOARD. The diodes are not bi-directional, they can only be orientated one way*
+
+![image](https://user-images.githubusercontent.com/104576748/175948684-97533748-e1f0-4fc0-b571-64a330f8024a.png)
+
+*Cite: [Keypass](https://keycapsss.com/help/reviung41/buildguide_en)*
 
 <!---Video 24b-->
 https://user-images.githubusercontent.com/104576748/175931329-fa7da6e3-7e88-4b27-a1cb-aeaa68791395.mp4
