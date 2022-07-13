@@ -70,7 +70,11 @@ Once the ends are soldered you can finish off soldering each individual pin of t
 It's not uncommon to miss a pin and only to realize it afterwards when a full column or
 row of your keyboard isn't working.*</sub>
 
-With the sockets soldered you can begin adding pins to the sockets.
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/15.jpg?raw=true)
+
+Make sure to also bridge the Oled jumpers shown in the picture above, before soldering your microcontroller to the board.
+
+With the sockets soldered and Oled jumpers bridged you can begin adding pins to the sockets.
 When adding the pins it usually takes a little force to seat them properly the first time.
 
 <!---Video 9-->
@@ -109,11 +113,6 @@ Make sure to bridge these jumpers so the OLED is wired to the correct side of th
 https://user-images.githubusercontent.com/104576748/175925441-be7fb134-d95e-4764-baeb-1b012c1e5dbd.mp4
 
 [Video Link](https://youtu.be/XsF2idFTQ3s)
-
-![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/15.jpg?raw=true)
-
-If you haven't already soldered the OLED sockets,
-you can follow the steps above for socketing the microcontrollers.
 
 ![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/16.jpg?raw=true)
 
@@ -245,14 +244,16 @@ With the pin slightly bent, you can seat the encoder into the board. Start by sl
 cylindrical hole in the board. Once the feet are in far enough that they past the bottom edge of the board
 or are flush, you can gently push the encoder toward you slotting it in place. This might take a little force.
 
-Afterwards, you can finish with soldering the pins and bridging the jumpers underneath
+Afterwards, you can finish with soldering the pins and bridging the jumpers underneath.
 
 <!---Video 22-->
 https://user-images.githubusercontent.com/104576748/175933178-7931f157-08ca-4c1e-9226-a07fb1c0177f.mp4
 
 [Video Link](https://youtu.be/nH7LEHtE2h0)
 
-![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/22c.jpg?raw=true)
+![Broken Link](https://github.com/barbellboards/Rollow/blob/main/Instructions/Images/22d.jpg?raw=true)
+
+The finish product should look like the picture above, make sure you've successfully bridged the jumpers.
 
 ---
 
